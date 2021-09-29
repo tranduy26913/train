@@ -140,4 +140,17 @@ body {
       color:var(--primary-color);
   }
 
- 
+ .subcribe__email {
+    font-size: 4rem;
+    font-weight: 700;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    color: #aaa;
+    border-bottom: 1px solid #7ffdce;
+    padding-top: 40px;
+ }
+
+ .btn-Subcribe {
+
+ }
